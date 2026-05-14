@@ -1,6 +1,6 @@
-streamlit==1.45.1
-pandas==2.2.3
-scikit-learn==1.6.1
-google-generativeai==0.8.5
-pdfplumber==0.11.6
-python-dotenv==1.1.0
+streamlit
+pandas
+numpy
+scikit-learn
+transformers
+torch
