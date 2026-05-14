@@ -1,7 +1,4 @@
 import google.generativeai as genai
-
-# 🔑 API KEY (yahan apni NEW ke)
-# genai.configure(api_key="AIzaSyBQ1BwJ7756IYxt3jIDqbrkTN4zZbA7wf8")
 import os
 from dotenv import load_dotenv
 
