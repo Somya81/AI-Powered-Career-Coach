@@ -1,8 +1,6 @@
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-
-# 🔍 Career match (already tha)
 def get_career_matches(data, user_input):
     all_skills = data["Skills"].tolist()
     all_skills.append(user_input)
