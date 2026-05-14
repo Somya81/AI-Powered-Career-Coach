@@ -2,8 +2,6 @@ import json
 from llm import model
 import pdfplumber
 
-
-# 📄 Extract text from PDF (same as resume.py)
 def extract_text_from_pdf(file):
     text = ""
     with pdfplumber.open(file) as pdf:
