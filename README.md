@@ -151,11 +151,11 @@ streamlit run app.py
 
 # 🌐 Deployment
 
-This project can be deployed easily using:
-- Streamlit Community Cloud
-- Render
-- Railway
-- Hugging Face Spaces
+This project is deployed using Streamlit Community Cloud.
+
+🔗 Live App: https://ai-powered-career-coach-8t4cjtuypuaicy3mojoqrc.streamlit.app/
+
+You can access the AI Career Coach directly from the browser without installation.
 
 ### Recommended:
 - Streamlit Community Cloud
